@@ -21,8 +21,8 @@ nav:
     - {title: 点击进入首页, url: 'https://bayareafindlove.wixsite.com/home', target: '_blank'} # if new window, add target
     
 # The blog button should not be removed.
-blog_button:
-    title: Blog
+# blog_button:
+#     title: Blog
 
 # Pagination
 plugins: 

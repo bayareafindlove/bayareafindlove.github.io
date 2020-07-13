@@ -3,7 +3,7 @@ title: 湾区脱单指南
 author: Vivian Wong
 subtitle: 为理工男生全面订制脱单方案
 # welcome_message: 
-description: 理工科男生脱单最强神器。全面订制恋爱约会脱单方案、恋爱咨询。代码对象、恋爱对象你都可以有。微信视频面对面解疑答惑。
+description: 面向理工科男生的最强脱单神器。代码和恋爱的对象你都可以有。全面订制恋爱约会脱单方案、恋爱咨询。微信视频面对面解疑答惑。
 creator: 湾区脱单指南
 
 url: bayareafindlove.github.io
@@ -18,7 +18,7 @@ cover_color: slate
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 进入首页, url: '', target: '_blank'} # if new window, add target # i change side-panel.html to make button absolute path to wix site
+    - {title: 进入首页, url: ''} # if new window, add target。 i changed side-panel.html to make button absolute path to wix site
     
 # The blog button should not be removed.
 blog_button:

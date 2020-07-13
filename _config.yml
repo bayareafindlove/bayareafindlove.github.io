@@ -1,0 +1,51 @@
+# Basic
+title: 湾区脱单指南
+author: Vivian Wong
+subtitle: 为理工男生全面订制脱单方案
+welcome_message: welcome
+description: description
+creator: 湾区脱单指南
+
+url: http://bayareafindlove.github.io
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
+
+# Navigation buttons in the front page.
+nav:
+    - {title: 点击进入首页, url: 'https://bayareafindlove.wixsite.com/home', target: '_blank'} # if new window, add target
+    
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+
+# Pagination
+plugins: 
+   - jekyll-paginate
+   - jekyll-seo-tag
+   - jekyll-sitemap
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+#comment:
+#    disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+social:
+#    weibo: onevcat
+    # github: vivian-wong
+#    twitter: onevcat
+#    gplus: 107108267983477358170
+    # mail: vwwong3@stanford.edu
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host

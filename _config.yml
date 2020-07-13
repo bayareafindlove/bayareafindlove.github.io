@@ -1,8 +1,8 @@
 # Basic
 title: 湾区脱单指南
 author: Vivian Wong
-subtitle: 为理工男生全面订制脱单方案
-# welcome_message: 
+# subtitle: 
+welcome_message: 为理工男生全面订制脱单方案
 # description: description
 creator: 湾区脱单指南
 
@@ -18,7 +18,7 @@ cover_color: slate
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 首页, url: 'https://bayareafindlove.wixsite.com/home', target: '_blank'} # if new window, add target
+    - {title: 进入首页, url: 'https://bayareafindlove.wixsite.com/home', target: '_blank'} # if new window, add target
     
 # The blog button should not be removed.
 blog_button:
